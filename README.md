@@ -76,9 +76,7 @@ Run the analysis:
 ## Contributing
 Contributions are welcome! Feel free to submit pull requests or open issues for discussions.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
-For any inquiries, please reach out via [your-email@example.com].
+For any inquiries, please reach out via [manassaluja31@gmail.com].
 
